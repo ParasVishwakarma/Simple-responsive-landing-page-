@@ -1,1 +1,1 @@
-# CodeClouseInternship -Simple-responsive-landing-page-
+# CodeClouseInternship_Simple-responsive-landing-page-
